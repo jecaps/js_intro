@@ -1,8 +1,5 @@
-let greetingText = "Hi, I'm Jerk";
-let num = 32;
-alert(greetingText);
-alert(greetingText);
-greetingText = "Hi, I am really Jerk!";
-alert(greetingText);
-alert(num);
-alert(num);
+let age = 32;
+let userName = "Max";
+let hobbies = ["Sports", "Cooking", "Reading"];
+
+alert(hobbies[2]);
