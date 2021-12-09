@@ -25,3 +25,7 @@ result /= 5; // result = result / 5
 console.log(result);
 
 console.log("Jerika" + " " + "Kanz");
+
+let userName = "Jerky";
+console.log(userName.length); // number of characters that make up this string
+console.log(userName.toUpperCase());
