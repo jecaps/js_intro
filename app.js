@@ -7,5 +7,6 @@ let job = {
   salary: 50000,
 };
 
-alert(hobbies[2]); // bracket notation
-alert(job.title); // dot notation
+age = 45;
+let adultYears = age - 18;
+alert(adultYears);
