@@ -1,8 +1,9 @@
 let person = {
   name: "John",
   greet() {
-    alert("Hello");
+    console.log("Hello");
   },
 };
 
 person.greet();
+console.log(32);
