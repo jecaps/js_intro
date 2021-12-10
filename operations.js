@@ -29,3 +29,6 @@ console.log("Jerika" + " " + "Kanz");
 let userName = "Jerky";
 console.log(userName.length); // number of characters that make up this string
 console.log(userName.toUpperCase());
+
+let hobbies = ["Sports", "Cooking"];
+console.log(hobbies.length);
